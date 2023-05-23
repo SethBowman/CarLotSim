@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\bin\Debug\net7.0\CarLotSim.exe
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\bin\Debug\net7.0\CarLotSim.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\bin\Debug\net7.0\CarLotSim.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\bin\Debug\net7.0\CarLotSim.dll
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\bin\Debug\net7.0\CarLotSim.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.dll
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\refint\CarLotSim.dll
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\CarLotSim.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\CarLotSim\CarLotSim\obj\Debug\net7.0\ref\CarLotSim.dll
